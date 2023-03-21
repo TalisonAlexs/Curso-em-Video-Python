@@ -1,5 +1,5 @@
 n1 = float(input("Primeira nota: "))
 n2 = float(input("Segunda nota: "))
-m = (n1+n2)/2
+m = (n1 + n2) / 2
 print(f"A nota média é {m:.1f}")
-#print(f"A nota média é {round(m, 1)}")#
+# print(f"A nota média é {round(m, 1)}")#

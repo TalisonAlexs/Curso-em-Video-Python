@@ -1,4 +1,5 @@
 from random import shuffle
+
 n = int(input("Número de alunos: "))
 lista = []
 for i in range(0, n):
